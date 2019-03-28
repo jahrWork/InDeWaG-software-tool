@@ -6,7 +6,7 @@ How to RUN the simulation tool:
 2) Open the folder "Standalone InDeWag Tool"
 3) Double click on tools.exe
 
-A complete user manual is located under the folder "doc"
+A complete user manual is located under the folder "Standalone InDeWag Tool" > "doc"
 
 
 This work was supported by program
