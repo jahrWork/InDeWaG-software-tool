@@ -4,7 +4,7 @@ Industrial Development of Water-Flow Glazing Systems. Software tool to design wa
 How to RUN the simulation tool: 
 1) Uncompress the .rar file 
 2) Open the folder "Standalone InDeWag Tool"
-3) Double click on tools.exe
+3) Double click on InDeWag_tool.exe
 
 A complete user manual is located under the folder "Standalone InDeWag Tool" > "doc"
 
