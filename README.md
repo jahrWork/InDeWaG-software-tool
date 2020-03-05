@@ -8,6 +8,12 @@ How to RUN the simulation tool:
 
 A complete user manual is located under the folder "Standalone InDeWag Tool" > "doc"
 
+The InDeWag tool can be used with the following  methodology accessed by different menus: 
+ 1) Sunshine study. 
+ 2) Whole year energy balance: solar gains and energy demands. 
+ 3) Steady and unsteady thermal simulation with different boundary conditions.
+ 4) Thermal building simulation. 
+
 
 This work was supported by program
 Horizon 2020-EU.3.3.1.: Reducing energy consumption and carbon
